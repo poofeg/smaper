@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: smape.com
+MIDlet-Name: SmapeR
+MIDlet-Version: ###VERSION-JAVA###
+MIDlet-Vendor: smape.com
+MIDlet-Jar-URL: smaper.jar
+MIDlet-Jar-Size: ###SIZE###
+MIDlet-Icon: icon.png
+MicroEdition-Profile: ###MIDP-PROFILE###
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: SmapeR ###VERSION-JAVA###
+MIDlet-Info-URL: http://smape.com/smaper
+MIDlet-1: SmapeR,icon.png,mip.MIP
+MIP-Version: ###VERSION###
+Background: True
+FlipInsensitive: True
